@@ -1,0 +1,42 @@
+.sidebar .image img{
+
+    width: 250px;
+    border-radius: 6px;
+    
+}
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 250px;
+    padding: 10px 14px;
+
+}
+.sidebar header .image{
+
+    display: flex;
+    align-items: center;
+    
+}
+.text .name {
+
+    align-items: center;
+    font-size: 50px;
+    color: rgb(9, 11, 11);
+    /*text-shadow: #ff1f1f 1px 1px 10px; color: #ff3b3b; background: url(https://asiancoderz.com/uploads/sparkles/sparkle_red.gif);*/
+}
+
+.text{
+
+    margin-right: 350px;
+    margin-left: 10px;
+}
+
+.name{
+
+    margin-right: 350px;
+    margin-left: 1px;
+}
+
+
